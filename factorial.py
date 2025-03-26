@@ -1,4 +1,4 @@
-def facto(int n):
+def facto(n):
   if n==1:
     return 1
   else:
