@@ -1,5 +1,5 @@
-def facto(int x):
-  if x==1:
+def facto(int n):
+  if n==1:
     return 1
   else:
     return facto(n-1)*n
